@@ -19,12 +19,25 @@
 
 Capitulo 23
 
-![](Img/45.jpg)
+![](Img/1.1.png)
+
+![](Img/1.2.png)
+
+![](Img/1.3.png)
+
+![](Img/1.4.png)
+
+![](Img/1.5.png)
+
+![](Img/1.6.png)
+
+![](Img/1.7.png)
+
 
 
 Capitulo 24
 
-![](Img/2.jpg)
+![](Img/2.1.png)
 
 4. VDEO:
 
