@@ -19,6 +19,14 @@
 
 Capitulo 23
 
+![](Img/1,3.PNG)
+
+![](Img/5.PNG)
+
+![](Img/7,9,11.PNG)
+
+![](Img/13,15,17.PNG)
+
 ![](Img/1.1.png)
 
 ![](Img/1.2.png)
