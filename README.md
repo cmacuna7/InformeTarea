@@ -11,7 +11,7 @@
 
 2. Marco Teorico 
 
-![](Img/mapa1.jpg)
+![](Img/marco.jpg)
 
 
 
@@ -46,6 +46,35 @@ Capitulo 23
 Capitulo 24
 
 ![](Img/2.1.png)
+
+![](Img/43.jpg)
+
+![](Img/45.jpg)
+
+![](Img/46.jpg)
+
+![](Img/48.jpg)
+
+![](Img/49.jpg)
+
+![](Img/53.jpg)
+
+![](Img/53.1.jpg)
+
+![](Img/55.jpg)
+
+![](Img/55.1.jpg)
+
+![](Img/57.jpg)
+
+![](Img/59.jpg)
+
+
+
+
+
+
+
 
 4. VDEO:
 
