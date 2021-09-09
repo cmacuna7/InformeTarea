@@ -47,7 +47,23 @@ Capitulo 24
 
 ![](Img/2.1.png)
 
-![](Img/43.jpg)
+![](Img/deber9-1.jpg)
+
+![](Img/deber9-2.jpg)
+
+![](Img/deber9-3.jpg)
+
+![](Img/deber9-4.jpg)
+
+![](Img/deber9-5.jpg)
+
+![](Img/deber9-6.jpg)
+
+![](Img/deber9-7.jpg)
+
+![](Img/deber9-8.jpg)
+
+![](Img/deber9-9.jpg)
 
 ![](Img/45.jpg)
 
